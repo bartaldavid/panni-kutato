@@ -3,6 +3,17 @@
     pageRef = "posts"
     
 [[main]]
-    name = "About"
+    name = "Kapcsolat"
     pageRef = "about"
+    weight = 0
+
+[[main]]
+    name = "Kutatások"
+    pageRef = "kutatasok"
+    weight = 20
+    
+[[main]]
+    name = "Projektek"
+    pageRef = "projektek"
+    weight = 10
 
